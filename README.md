@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dat-insanity
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning code
+- 💞️ I’m looking to collaborate on code
+- 📫 How to reach me: dm me on discord dat_insanity#2048
